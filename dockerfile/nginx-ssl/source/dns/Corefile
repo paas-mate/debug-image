@@ -1,0 +1,5 @@
+server1.com {
+    file server1
+    errors
+    log
+}
